@@ -10,6 +10,7 @@ int i; int j = 5;
 			total = i*j;
 		System.out.println(total);
 	}
+		System.out.println("Coucou");
 	
 	}
 }
